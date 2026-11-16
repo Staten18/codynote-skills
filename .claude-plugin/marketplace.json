@@ -1,0 +1,16 @@
+{
+  "name": "codynote-skills",
+  "description": "Claude skills for CodyNote, a desktop sales notebook. They need the CodyNote app and its connector on the same PC.",
+  "owner": {
+    "name": "Staten18",
+    "url": "https://github.com/Staten18"
+  },
+  "plugins": [
+    {
+      "name": "codynote",
+      "source": "./plugins/codynote",
+      "description": "Account briefs and QBR prep, refresh an account, import a customer, where to look, prep my week, the queue and the book, working against the CodyNote connector.",
+      "category": "productivity"
+    }
+  ]
+}

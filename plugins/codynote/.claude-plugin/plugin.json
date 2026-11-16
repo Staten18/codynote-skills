@@ -1,0 +1,16 @@
+{
+  "name": "codynote",
+  "displayName": "CodyNote",
+  "version": "0.55.0",
+  "description": "Skills for the CodyNote sales notebook: account briefs and QBR prep, refresh an account (call, email, people, items, deals, verify), import a customer, where to look, prep my week, the Claude queue and the book. Needs the CodyNote app and connector.",
+  "author": {
+    "name": "Staten18"
+  },
+  "homepage": "https://github.com/Staten18/codynote-skills",
+  "repository": "https://github.com/Staten18/codynote-skills",
+  "keywords": [
+    "codynote",
+    "sales-notes",
+    "customer-success"
+  ]
+}
